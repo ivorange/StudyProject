@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">RefreshDemo</string>
+    <string name="hello_world">Hello world!</string>
+	<string name="foot_layout_content">This is the footerContent !!!</string>
+</resources>

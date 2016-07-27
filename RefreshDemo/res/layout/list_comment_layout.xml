@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="100dp"
+    android:orientation="vertical" >
+    
+	
+    <TextView 
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/text_id"
+        android:textColor="#000000"
+        android:text="This is the title "
+        android:textSize="14sp"
+        android:gravity="left"
+        />
+    <TextView 
+         android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:textColor="#000000"
+        android:text="This is the body "
+        android:id="@+id/text_content"
+        android:textSize="16sp"
+        android:gravity="center"
+        />
+    <TextView 
+         android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textColor="#000000"
+        android:text="This is the date "
+        android:id="@+id/text_date"
+        android:textSize="12sp"
+        android:gravity="right"
+        />
+</LinearLayout>
