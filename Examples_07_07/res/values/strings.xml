@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">闹钟示例，请先设置闹钟！</string>
+    <string name="app_name">Examples_07_07</string>
+    <string name="click_cancel">闹铃通知，点击取消</string>
+    <string name="song_pause">闹铃暂停</string>
+</resources>
